@@ -1,6 +1,8 @@
 # Team Details 
 NAME :- HACK MAVERICKS
 
+COLLEGE_NAME :- IIIT RANCHI
+
 TEAM MEMBERS : 
 > DIPURANJAN SETHY <br>
 > SHRUTI DHARNE <br>
@@ -17,12 +19,7 @@ person, and there is no easy way for them to track the progress of their case. P
 and police to manage crime records. The website will have two main features: one for citizens to report crimes and track the progress of their case, and one for police officers to manage cases and communicate with citizens
 
 
-TEAM NAME : HACK MAVERICKS
-TEAM MEMBERS : 
-> DIPURANJAN SETHY <br>
-> SHRUTI DHARNE <br>
-> MADHURI<br>
-> SHIVANSH RAJPUT<br>
+
 
 # Crime-Reporting-System
 > The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone
@@ -40,3 +37,10 @@ We created a website with 4 functionalities which includes login pages for user,
 • From headquarter portal we can add police station to different areas and view all the cases
 
 • We also added a google map in our user portal page which detects your current location and shows you the location of nearest police station
+
+# TECH STACKS USED
+> HTML <br>
+> CSS <br>
+> JAVA SCRIPT <br>
+> PHP(BACK END) <br>
+> MY SQL(DATA BASE) <br>

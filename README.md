@@ -1,3 +1,14 @@
+#Problem Statement:-
+
+ Website for Citizens and Police for management of Crime Records.
+Description:-
+>The current system for managing crime records is often cumbersome and time-consuming. Citizens who wish to report a crime may have to visit a police station in 
+person, and there is no easy way for them to track the progress of their case. Police officers, on the other hand, may struggle to keep track of the large volume of cases they are responsible for, leading to delays and inefficiencies.The website aims to address these issues by providing a user-friendly platform for citizens 
+and police to manage crime records. The website will have two main features: one for citizens to report crimes and track the progress of their case, and one for police officers to manage cases and communicate with citizens
+
+
+
+
 # Crime-Reporting-System
 > The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone
 

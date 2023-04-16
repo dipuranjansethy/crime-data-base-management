@@ -1,3 +1,13 @@
+# Team Details 
+NAME :- HACK MAVERICKS
+
+TEAM MEMBERS : 
+> DIPURANJAN SETHY <br>
+> SHRUTI DHARNE <br>
+> MADHURI<br>
+> SHIVANSH RAJPUT<br>
+
+
 # Problem Statement
 
  Website for Citizens and Police for management of Crime Records.

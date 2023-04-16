@@ -9,10 +9,10 @@ and police to manage crime records. The website will have two main features: one
 
 TEAM NAME : HACK MAVERICKS
 TEAM MEMBERS : 
-> DIPURANJAN SETHY
-> SHRUTI DHARNE
-> MADHURI
-> SHIVANSH RAJPUT
+> DIPURANJAN SETHY <br>
+> SHRUTI DHARNE <br>
+> MADHURI<br>
+> SHIVANSH RAJPUT<br>
 
 # Crime-Reporting-System
 > The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone

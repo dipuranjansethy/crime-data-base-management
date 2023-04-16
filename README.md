@@ -7,7 +7,12 @@ person, and there is no easy way for them to track the progress of their case. P
 and police to manage crime records. The website will have two main features: one for citizens to report crimes and track the progress of their case, and one for police officers to manage cases and communicate with citizens
 
 
-
+TEAM NAME : HACK MAVERICKS
+TEAM MEMBERS : 
+> DIPURANJAN SETHY
+> SHRUTI DHARNE
+> MADHURI
+> SHIVANSH RAJPUT
 
 # Crime-Reporting-System
 > The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone
